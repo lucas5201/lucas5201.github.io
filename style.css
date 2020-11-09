@@ -118,5 +118,13 @@ footer {
         #inst {
             font-size: 15;
         }
+
+        h3 {
+            text-decoration: underline;
+        }
+
+        table {
+            font-size: 15;
+        }
     }
     
