@@ -99,3 +99,24 @@ footer {
     background-color: #B22222;
     color: white;
 }
+
+#lien {
+	display: block;
+    text-align: right;
+}
+
+#lien > a {
+    color: white;
+	text-decoration: none;
+}
+
+@media (max-width: 640px) {
+	* {
+        body
+        {
+            font-size: 50;
+        }
+
+
+    }
+    
