@@ -112,7 +112,7 @@ footer {
 
 @media (max-width: 640px) {
 
-        #mob {
+        .mob {
             font-size: 15;
         }
 
