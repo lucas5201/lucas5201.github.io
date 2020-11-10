@@ -1,3 +1,17 @@
+@media screen and (max-width: 800px) {
+
+    .mob {
+        font-size: 15px;
+    }
+
+
+    .mob > h3 {
+        text-decoration: underline;
+    }
+
+}
+
+
 #logo {
     width: 110px;
     height: 110px;
@@ -110,16 +124,5 @@ footer {
 	text-decoration: none;
 }
 
-@media (max-width: 800px) {
 
-        .mob {
-            font-size: 15px;
-        }
-
-
-        .mob > h3 {
-            text-decoration: underline;
-        }
-
-    }
     
