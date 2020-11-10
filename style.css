@@ -78,7 +78,7 @@ header {
     float: left;
     background-color: #B22222;
     color: white;
-    font-size: 40;
+    font-size: 40px;
     text-decoration: none;
 }
 
@@ -113,8 +113,9 @@ footer {
 @media (max-width: 800px) {
 
         .mob {
-            font-size: 15;
+            font-size: 15px;
         }
+
 
         .mob > h3 {
             text-decoration: underline;
