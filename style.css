@@ -116,5 +116,9 @@ footer {
             font-size: 15;
         }
 
+        .mob > h3 {
+            text-decoration: underline;
+        }
+
     }
     
